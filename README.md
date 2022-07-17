@@ -1,4 +1,4 @@
-# Azure Pipelines - Kubernetes Orchestrator
+# Azure Pipelines - Kubernetes Orchestrator (Archived)
 [![Continuous Integration](https://github.com/akanieski/ado-agent-orchestrator/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/akanieski/ado-agent-orchestrator/actions/workflows/ci.yaml)
 
 ***ATTENTION*: I have moved this repo into the official Microsoft managed repositories. Please head over to the [official repo](https://github.com/microsoft/azure-pipelines-orchestrator) for more information**
